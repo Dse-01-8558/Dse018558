@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dse-01-8558
+- 👋 Hi, I’m @Dse018558
 - 👀 I’m interested in Software Engineering an dprogrmming
 - 🌱 I’m currently learning Node.js,Angular.js and vue.js bassically backend-end.
 - 💞️ I’m looking to collaborate on any project that is doable
